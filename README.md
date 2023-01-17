@@ -1,12 +1,7 @@
 # regex_practice
 
 ## Overall Purpose:
-This is learning and practicing regular expressions based on a book I bought from Amazon.
+This is learning and practicing regular expressions based on a book I bought from Amazon.  Regular expressions have proven very useful, they are certainly worth learning.
 
-## Wrangled Data:
-<ul>
-   <li>XML parser</li>
-   <li>website scraping</li>
-   <li>data auditing/ cleaning</li>
-   <li>Mongo DB (No SQL database)</li>
-</ul>
+## Personal Note:
+There are far too many exclamation marks in this code.  It seems I was passionate about learning something new and useful.
